@@ -1,0 +1,6 @@
+http://citmalumnes.upc.es/~martipb1/php/P4_Grup9/
+
+Es pot entrar amb el usuari i contrasenya seguents o un dels usuaris facilitats a la pràctica.
+usuari: marti@gmail.com  
+contrasenya: abc123 
+
